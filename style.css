@@ -1,0 +1,22 @@
+
+h1 {
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: #111;
+    margin: 40px 0 20px;
+    position: relative;
+    display: inline-block;
+}
+
+h2 {
+    color: #823434;
+    margin: 40px 0 15px;
+    letter-spacing: -0.3px;
+    position: relative;
+}
+
+h3 {
+    color: #262929;
+    margin: 25px 0 10px;
+    letter-spacing: -0.2px;
+}
