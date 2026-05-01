@@ -20,3 +20,20 @@ h3 {
     margin: 25px 0 10px;
     letter-spacing: -0.2px;
 }
+
+body {
+    margin: 1;
+    font-family: "Segoe UI", Arial, sans-serif;
+    background-color: #f3f5f5;
+    color: #000000;
+    line-height: 1.6;
+}
+
+p {
+    font-size: 1rem;
+    color: #444;
+    margin: 10px 0;
+}
+html {
+    scroll-behavior: smooth;
+}
