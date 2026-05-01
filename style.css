@@ -22,7 +22,7 @@ h3 {
 }
 
 body {
-    margin: 1;
+    margin: 0;
     font-family: "Segoe UI", Arial, sans-serif;
     background-color: #f3f5f5;
     color: #000000;
@@ -36,4 +36,36 @@ p {
 }
 html {
     scroll-behavior: smooth;
+}
+
+nav{
+  background-color: rgb(85, 209, 209);
+  overflow: hidden;
+}
+ nav a{
+ color: #0b0a0a;
+ float: left;
+ display: block;
+ text-decoration: none;
+ text-align: justify;
+ padding: 14px 16px;
+ }
+nav a:hover{
+ background-color: #ffffff;
+ color:rgb(4, 5, 5);
+ text-decoration: none;
+
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+th {
+    background-color: #f2f2f2;
 }
